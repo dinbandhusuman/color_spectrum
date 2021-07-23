@@ -1,0 +1,29 @@
+h1{
+  color: red;
+  text-align: center;
+  font-family: 'Otomanopee One', sans-serif;
+}
+
+td{
+  background: black;
+  height: 300px;
+  width: 100px;
+  border: 6px solid white;
+}
+
+#one{
+  background: #eab676;
+}
+#two{
+  background: #76b5c5;
+}
+#three{
+  background: #abdbe3;
+}
+#four{
+  background: #063970;
+}
+
+#five{
+  background: #154c79;
+}
